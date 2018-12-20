@@ -57,6 +57,7 @@
 * [OpenBSD as an authoritative DNS nameserver](https://cryogenix.net/openbsd_nameserver.html)
 * [How To Set Up DNSSEC on an NSD Nameserver on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-dnssec-on-an-nsd-nameserver-on-ubuntu-14-04)
 * [Resilient OpenDNSSEC](https://www.nlnetlabs.nl/downloads/publications/Aleksandar-Kasabov-OpenDNSSEC.pdf)
+* [Bitsquatting: DNS Hijacking without Exploitation - Artem Dinaburg](http://media.blackhat.com/bh-us-11/Dinaburg/BH_US_11_Dinaburg_Bitsquatting_WP.pdf)
 
 ## Reports
 
