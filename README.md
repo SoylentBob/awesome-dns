@@ -114,3 +114,4 @@
 * [Secure Domain Name System (DNS) Deployment Guide](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81-2.pdf)
 * [Passive Observations of a Large DNS Service: 2.5 Years in the Life of Google](http://tma.ifip.org/2018/wp-content/uploads/sites/3/2018/06/tma2018_paper30.pdf)
 * [Nameserver Predelegation Check (German) - denic](https://www.denic.de/fileadmin/public/documentation/DENIC-23p.pdf)
+* [Beobachtungsmöglichkeiten im Domain Name System: Angriffe auf die Privatsphäre und Techniken zum Selbstdatenschutz - Dominik Herrmann (German)](https://svs.informatik.uni-hamburg.de/publications/2015/2015-12-01-Herrmann-GI-Disspreis-Beobachtungsmoeglichkeiten-im-DNS.pdf)
