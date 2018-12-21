@@ -59,7 +59,7 @@
 * [Resilient OpenDNSSEC](https://www.nlnetlabs.nl/downloads/publications/Aleksandar-Kasabov-OpenDNSSEC.pdf)
 * [Bitsquatting: DNS Hijacking without Exploitation - Artem Dinaburg](http://media.blackhat.com/bh-us-11/Dinaburg/BH_US_11_Dinaburg_Bitsquatting_WP.pdf)
 * [Observations on checksum errors in DNS queries to verisign's name servers - Duane Wessels](https://www.verisign.com/assets/VRSN_Bitsquatting_TR_20120320.pdf)
-* [DNS Response Policy Zones](ftp://ftp.isc.org/isc/dnsrpz/isc-tn-2010-1.txt)
+* [DNS Response Policy Zones](https://ftp.isc.org/isc/dnsrpz/isc-tn-2010-1.txt)
 
 ## Reports
 
