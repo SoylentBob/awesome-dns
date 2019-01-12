@@ -62,6 +62,7 @@
 * [Observations on checksum errors in DNS queries to verisign's name servers - Duane Wessels](https://www.verisign.com/assets/VRSN_Bitsquatting_TR_20120320.pdf)
 * [DNS Response Policy Zones](https://ftp.isc.org/isc/dnsrpz/isc-tn-2010-1.txt)
 * [DNS over TLS: Encrypting DNS end-to-end - Facebook Code](https://code.fb.com/security/dns-over-tls/)
+* [DNSSEC Signer Migration](https://labs.ripe.net/Members/anandb/dnssec-signer-migration)
 
 ## Reports
 
