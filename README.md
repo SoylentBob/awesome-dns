@@ -63,6 +63,7 @@
 * [DNS Response Policy Zones](https://ftp.isc.org/isc/dnsrpz/isc-tn-2010-1.txt)
 * [DNS over TLS: Encrypting DNS end-to-end - Facebook Code](https://code.fb.com/security/dns-over-tls/)
 * [DNSSEC Signer Migration](https://labs.ripe.net/Members/anandb/dnssec-signer-migration)
+* [Against DNSSEC - Quarrelsome](https://sockpuppet.org/blog/2015/01/15/against-dnssec/)
 
 ## Reports
 
