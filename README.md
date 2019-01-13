@@ -65,6 +65,7 @@
 * [DNS over TLS: Encrypting DNS end-to-end - Facebook Code](https://code.fb.com/security/dns-over-tls/)
 * [DNSSEC Signer Migration](https://labs.ripe.net/Members/anandb/dnssec-signer-migration)
 * [Against DNSSEC - Quarrelsome](https://sockpuppet.org/blog/2015/01/15/against-dnssec/)
+* [DNSSEC-bis for complete beginners (like me)](https://ds9a.nl/dnssec/)
 
 ## Reports
 
