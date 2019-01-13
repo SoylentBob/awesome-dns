@@ -68,6 +68,7 @@
 * [DNSSEC-bis for complete beginners (like me)](https://ds9a.nl/dnssec/)
 * [The role of DNS and DNSSEC in information security](https://ds9a.nl/secure-dns.html)
 * [DNSSEC - The Good The Bad and The Very Bad](http://conference.hackinthebox.org/hitbsecconf2011ams/materials/D2T3%20-%20Bert%20Hubert%20-%20DNSSEC%20-%20The%20Good%20The%20Bad%20and%20The%20Very%20Bad.pdf)
+* [14 DNS Nerds Don't Control The Internet - Quarrelsome](https://sockpuppet.org/blog/2016/10/27/14-dns-nerds-dont-control-the-internet/)
 
 ## Reports
 
