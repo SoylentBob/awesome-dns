@@ -34,6 +34,7 @@
 
 * [DNS query/response logging with dnstap - Jan-Piet Mens](https://jpmens.net/2017/09/11/dns-query-response-logging-with-dnstap/)
 * [How Cloudflare analyzes 1M DNS queries per second](https://blog.cloudflare.com/how-cloudflare-analyzes-1m-dns-queries-per-second/)
+* [On the surprising connection between the magic HyperLoglog and DNSSEC NSEC3](https://ds9a.nl/hypernsec3/)
 
 ## Passive DNS
 
@@ -98,6 +99,7 @@
 * [DEF CON 16 - Dan Kaminsky: Black Ops 2008](https://www.youtube.com/watch?v=7Pp72gUYx00)
 * [High-speed high-security cryptography: encrypting and authenticating the whole Internet - Daniel J. Bernstein](https://media.ccc.de/v/27c3-4295-en-high_speed_high_security_cryptography)
 * [Bert Hubert “DNS is the Gateway to Good & Bad: How OX helps to secure the Internet”](https://vimeo.com/241165925)
+* [Bert Hubert "HyperLogLog inspired three-minute scan of DNSSEC delegations worldwide"](https://indico.dns-oarc.net/event/26/contributions/437/attachments/395/671/hyperloglog_1.pdf)
 
 # Books
 
