@@ -55,20 +55,24 @@
 * [DomainChroma: Building actionable threat intelligence from malicious domain names](https://www.sciencedirect.com/science/article/pii/S0167404818302967)
 * [The Modality of Mortality in Domain Names](https://www.farsightsecurity.com/assets/media/download/VB2018-study.pdf)
 * [Esoteric sub-domain enumeration techniques](https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration)
-* [OpenDNSSEC Lab & Training](https://github.com/opendnssec/odslab)
 * [OpenBSD as an authoritative DNS nameserver](https://cryogenix.net/openbsd_nameserver.html)
-* [How To Set Up DNSSEC on an NSD Nameserver on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-dnssec-on-an-nsd-nameserver-on-ubuntu-14-04)
-* [Resilient OpenDNSSEC](https://www.nlnetlabs.nl/downloads/publications/Aleksandar-Kasabov-OpenDNSSEC.pdf)
 * [Bitsquatting: DNS Hijacking without Exploitation - Artem Dinaburg](http://media.blackhat.com/bh-us-11/Dinaburg/BH_US_11_Dinaburg_Bitsquatting_WP.pdf)
 * [Observations on checksum errors in DNS queries to verisign's name servers - Duane Wessels](https://www.verisign.com/assets/VRSN_Bitsquatting_TR_20120320.pdf)
 * [DNS Response Policy Zones](https://ftp.isc.org/isc/dnsrpz/isc-tn-2010-1.txt)
 * [DNS over TLS: Encrypting DNS end-to-end - Facebook Code](https://code.fb.com/security/dns-over-tls/)
+
+## DNSSEC
+
+* [OpenDNSSEC Lab & Training](https://github.com/opendnssec/odslab)
+* [How To Set Up DNSSEC on an NSD Nameserver on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-dnssec-on-an-nsd-nameserver-on-ubuntu-14-04)
 * [DNSSEC Signer Migration](https://labs.ripe.net/Members/anandb/dnssec-signer-migration)
+* [Resilient OpenDNSSEC](https://www.nlnetlabs.nl/downloads/publications/Aleksandar-Kasabov-OpenDNSSEC.pdf)
 * [Against DNSSEC - Quarrelsome](https://sockpuppet.org/blog/2015/01/15/against-dnssec/)
 * [DNSSEC-bis for complete beginners (like me)](https://ds9a.nl/dnssec/)
 * [The role of DNS and DNSSEC in information security](https://ds9a.nl/secure-dns.html)
 * [DNSSEC - The Good The Bad and The Very Bad](http://conference.hackinthebox.org/hitbsecconf2011ams/materials/D2T3%20-%20Bert%20Hubert%20-%20DNSSEC%20-%20The%20Good%20The%20Bad%20and%20The%20Very%20Bad.pdf)
 * [14 DNS Nerds Don't Control The Internet - Quarrelsome](https://sockpuppet.org/blog/2016/10/27/14-dns-nerds-dont-control-the-internet/)
+* [Parents, children, CDS/CDNSKEY records, and dnssec-cds](https://jpmens.net/2017/09/21/parents-children-cds-cdnskey-records-and-dnssec-cds/)
 
 ## Reports
 
