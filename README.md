@@ -3,6 +3,7 @@
 * [howdns.works](https://howdns.works/episodes/)
 * [A warm welcome to DNS](https://powerdns.org/hello-dns/)
 * [35C3 - Domain Name System - Hannes Mehnert](https://www.youtube.com/watch?v=I7060fqa-B8)
+* [Let's hand write DNS messages | James Routley](https://routley.io/tech/2017/12/28/hand-writing-dns-messages.html)
 
 # Authoritative Nameservers
 
