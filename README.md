@@ -46,6 +46,10 @@
 * [Alternatives to Passive DNS Replication - enyo.de](http://www.enyo.de/fw/software/dnslogger/alternatives.html)
 * [Passive DNS Replication WHOIS Server - enyo.de](http://www.enyo.de/fw/software/dnslogger/whois.html)
 
+# Benchmarking
+
+* [knot - dns benchmarking](https://gitlab.labs.nic.cz/knot/dns-benchmarking)
+
 # Provisioning
 
 * [Automatic provisioning of slave DNS servers - Jan-Piet Mens](https://jpmens.net/2013/02/13/automatic-provisioning-of-slave-dns-servers/)
