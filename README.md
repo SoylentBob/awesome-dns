@@ -137,3 +137,4 @@
 * [Nameserver Predelegation Check (German) - denic](https://www.denic.de/fileadmin/public/documentation/DENIC-23p.pdf)
 * [Beobachtungsmöglichkeiten im Domain Name System: Angriffe auf die Privatsphäre und Techniken zum Selbstdatenschutz - Dominik Herrmann (German)](https://svs.informatik.uni-hamburg.de/publications/2015/2015-12-01-Herrmann-GI-Disspreis-Beobachtungsmoeglichkeiten-im-DNS.pdf)
 * [DNSSEC HOWTO - Olaf Kolkman](https://www.dns-school.org/Documentation/dnssec_howto.pdf)
+* [Erkennung von Angriffsmustern in Passiv-DNS-Daten - Bachelorarbeit Nick Diedrich](http://edoc.sub.uni-hamburg.de/haw/volltexte/2017/4012/pdf/Bachelorarbeit_Nick_Diedrich.pdf)
