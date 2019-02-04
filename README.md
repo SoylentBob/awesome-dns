@@ -54,6 +54,7 @@
 
 * [Automatic provisioning of slave DNS servers - Jan-Piet Mens](https://jpmens.net/2013/02/13/automatic-provisioning-of-slave-dns-servers/)
 * [How the AXFR protocol works](https://cr.yp.to/djbdns/axfr-notes.html)
+* [Managing DNS Zones Using Git - Ondřej Caletka](https://labs.ripe.net/Members/ondrej_caletka/managing-dns-zones-using-git)
 
 # Security
 
