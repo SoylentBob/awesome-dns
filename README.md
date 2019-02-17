@@ -90,6 +90,7 @@
 * [The Orphaned Internet – Taking Over 120K Domains via a DNS Vulnerability in AWS, Google Cloud, Rackspace and Digital Ocean | The Hacker Blog](https://thehackerblog.com/the-orphaned-internet-taking-over-120k-domains-via-a-dns-vulnerability-in-aws-google-cloud-rackspace-and-digital-ocean/index-2.html)
 * [The International Incident – Gaining Control of a .int Domain Name With DNS Trickery | The Hacker Blog](https://thehackerblog.com/the-international-incident-gaining-control-of-a-int-domain-name-with-dns-trickery/index.html)
  * [Microsoft Azure data deleted because of DNS outage](https://nakedsecurity.sophos.com/2019/02/01/dns-outage-turns-tables-on-azure-database-users/)
+ * [DNSpionage Campaign Targets Middle East  - Talos](https://blog.talosintelligence.com/2018/11/dnspionage-campaign-targets-middle-east.html)
 
 
 # Development
