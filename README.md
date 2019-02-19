@@ -91,6 +91,7 @@
 * [The International Incident – Gaining Control of a .int Domain Name With DNS Trickery | The Hacker Blog](https://thehackerblog.com/the-international-incident-gaining-control-of-a-int-domain-name-with-dns-trickery/index.html)
  * [Microsoft Azure data deleted because of DNS outage](https://nakedsecurity.sophos.com/2019/02/01/dns-outage-turns-tables-on-azure-database-users/)
  * [DNSpionage Campaign Targets Middle East  - Talos](https://blog.talosintelligence.com/2018/11/dnspionage-campaign-targets-middle-east.html)
+ * [A Deep Dive on the Recent Widespread DNS Hijacking Attacks - Krebs on Security](https://krebsonsecurity.com/2019/02/a-deep-dive-on-the-recent-widespread-dns-hijacking-attacks/)
 
 
 # Development
