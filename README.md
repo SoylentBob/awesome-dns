@@ -93,7 +93,6 @@
  * [DNSpionage Campaign Targets Middle East  - Talos](https://blog.talosintelligence.com/2018/11/dnspionage-campaign-targets-middle-east.html)
  * [A Deep Dive on the Recent Widespread DNS Hijacking Attacks - Krebs on Security](https://krebsonsecurity.com/2019/02/a-deep-dive-on-the-recent-widespread-dns-hijacking-attacks/)
 
-
 # Development
 
 * [“The DNS Camel”, or, the rise in DNS complexity - Bert Hubert](https://blog.powerdns.com/2018/03/22/the-dns-camel-or-the-rise-in-dns-complexit/)
@@ -132,6 +131,7 @@
 # RFCs
 
 * https://www.isc.org/community/rfcs/dns/
+* [DNS Terminology](https://tools.ietf.org/html/rfc8499)
 
 # Papers/Publications
 
