@@ -55,6 +55,7 @@
 * [Automatic provisioning of slave DNS servers - Jan-Piet Mens](https://jpmens.net/2013/02/13/automatic-provisioning-of-slave-dns-servers/)
 * [How the AXFR protocol works](https://cr.yp.to/djbdns/axfr-notes.html)
 * [Managing DNS Zones Using Git - Ondřej Caletka](https://labs.ripe.net/Members/ondrej_caletka/managing-dns-zones-using-git)
+* [Posh Security: Managing DNS with DNSControl, CloudFlare, DNSimple, Github, VSTS, Key Vault, and Docker!](https://poshsecurity.com/blog/managing-dns-with-dnscontrol-cloudflare-dnsimple-github-vsts-key-vault-and-docker)
 
 # Security
 
@@ -66,6 +67,7 @@
 * [Observations on checksum errors in DNS queries to verisign's name servers - Duane Wessels](https://www.verisign.com/assets/VRSN_Bitsquatting_TR_20120320.pdf)
 * [DNS Response Policy Zones](https://ftp.isc.org/isc/dnsrpz/isc-tn-2010-1.txt)
 * [DNS over TLS: Encrypting DNS end-to-end - Facebook Code](https://code.fb.com/security/dns-over-tls/)
+* [Posh Security: Advice on Mitigating DNS Infrastructure Tampering](https://poshsecurity.com/blog/advice-on-mitigating-dns-infrastructure-tampering)
 
 ## DNSSEC
 
