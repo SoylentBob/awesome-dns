@@ -95,6 +95,12 @@
  * [DNSpionage Campaign Targets Middle East  - Talos](https://blog.talosintelligence.com/2018/11/dnspionage-campaign-targets-middle-east.html)
  * [A Deep Dive on the Recent Widespread DNS Hijacking Attacks - Krebs on Security](https://krebsonsecurity.com/2019/02/a-deep-dive-on-the-recent-widespread-dns-hijacking-attacks/)
 
+# Infrastructure
+
+## Anycast
+
+* [Anycast DNS — Resilient Scalability for Critical Network Infrastructure Software, Part 2 — Implementation](https://medium.com/@tom.bowles/anycast-dns-part-2-4acc51e4d64f)
+
 # Development
 
 * [“The DNS Camel”, or, the rise in DNS complexity - Bert Hubert](https://blog.powerdns.com/2018/03/22/the-dns-camel-or-the-rise-in-dns-complexit/)
