@@ -68,6 +68,8 @@
 * [DNS Response Policy Zones](https://ftp.isc.org/isc/dnsrpz/isc-tn-2010-1.txt)
 * [DNS over TLS: Encrypting DNS end-to-end - Facebook Code](https://code.fb.com/security/dns-over-tls/)
 * [Posh Security: Advice on Mitigating DNS Infrastructure Tampering](https://poshsecurity.com/blog/advice-on-mitigating-dns-infrastructure-tampering)
+* [DNS Security: Threat Modeling DNSSEC, DoT, and DoH](https://www.netmeister.org/blog/doh-dot-dnssec.html)
+* [New Adventures in DNSSEC and DANE](https://www.netmeister.org/blog/dnssec-dane.html)
 
 ## DNSSEC
 
