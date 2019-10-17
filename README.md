@@ -30,6 +30,7 @@
 * [Yeti DNS](https://yeti-dns.org/)
 * [NicTool](https://github.com/msimerson/NicTool)
 * [cullum/dank-selfhosted](https://github.com/cullum/dank-selfhosted/tree/master/roles/nsd)
+* [atomiadns](https://github.com/atomia/atomiadns)
 
 # Monitoring
 
