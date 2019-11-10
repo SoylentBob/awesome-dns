@@ -6,6 +6,7 @@
 * [Let's hand write DNS messages | James Routley](https://routley.io/tech/2017/12/28/hand-writing-dns-messages.html)
 * [DNS Wars](https://www.potaroo.net/ispcol/2019-11/dnswars.html)
 * [DKIM demystified](https://www.20i.com/blog/dkim-demystified/)
+* [DNS for Rocket Scientists](http://www.zytrax.com/books/dns/ch1/)
 
 # Authoritative Nameservers
 
