@@ -131,6 +131,7 @@
 * [Bert Hubert “DNS is the Gateway to Good & Bad: How OX helps to secure the Internet”](https://vimeo.com/241165925)
 * [Bert Hubert "HyperLogLog inspired three-minute scan of DNSSEC delegations worldwide"](https://indico.dns-oarc.net/event/26/contributions/437/attachments/395/671/hyperloglog_1.pdf)
 * [Detecting and Preventing Malicious Domain Registrations in the .eu TLD - Lieven Desmet](https://www.youtube.com/watch?v=TpzhM3VFyJc)
+* [Paul Vixie talks about DNS over HTTPS](https://www.youtube.com/watch?v=ZxTdEEuyxHU)
 
 # Books
 
