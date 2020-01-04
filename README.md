@@ -74,6 +74,7 @@
 * [Posh Security: Advice on Mitigating DNS Infrastructure Tampering](https://poshsecurity.com/blog/advice-on-mitigating-dns-infrastructure-tampering)
 * [DNS Security: Threat Modeling DNSSEC, DoT, and DoH](https://www.netmeister.org/blog/doh-dot-dnssec.html)
 * [New Adventures in DNSSEC and DANE](https://www.netmeister.org/blog/dnssec-dane.html)
+* [Bitsquatting: DNS Hijacking without exploitation](http://dinaburg.org/bitsquatting.html)
 
 ## DNSSEC
 
