@@ -3,7 +3,7 @@
 * [howdns.works](https://howdns.works/episodes/)
 * [A warm welcome to DNS](https://powerdns.org/hello-dns/)
 * [35C3 - Domain Name System - Hannes Mehnert](https://www.youtube.com/watch?v=I7060fqa-B8)
-* [Let's hand write DNS messages | James Routley](https://routley.io/tech/2017/12/28/hand-writing-dns-messages.html)
+* [Let's hand write DNS messages | James Routley](https://routley.io/posts/hand-writing-dns-messages/)
 * [DNS Wars](https://www.potaroo.net/ispcol/2019-11/dnswars.html)
 * [DKIM demystified](https://www.20i.com/blog/dkim-demystified/)
 * [DNS for Rocket Scientists](http://www.zytrax.com/books/dns/ch1/)
