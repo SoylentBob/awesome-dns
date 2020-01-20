@@ -19,6 +19,7 @@
 * [tenta-dns](https://github.com/tenta-browser/tenta-dns)
 * [shaman](https://github.com/nanopack/shaman)
 * [robdns](https://github.com/robertdavidgraham/robdns)
+* [texnomic/securedns](https://github.com/Texnomic/SecureDNS)
 
 # Relevant Projects
 
