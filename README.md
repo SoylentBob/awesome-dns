@@ -76,6 +76,7 @@
 * [DNS Security: Threat Modeling DNSSEC, DoT, and DoH](https://www.netmeister.org/blog/doh-dot-dnssec.html)
 * [New Adventures in DNSSEC and DANE](https://www.netmeister.org/blog/dnssec-dane.html)
 * [Bitsquatting: DNS Hijacking without exploitation](http://dinaburg.org/bitsquatting.html)
+* [Hijacking of abandoned subdomains part 2](https://labs.detectify.com/2014/12/08/hijacking-of-abandoned-subdomains-part-2/)
 
 ## DNSSEC
 
