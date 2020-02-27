@@ -162,3 +162,4 @@
 * [Beobachtungsmöglichkeiten im Domain Name System: Angriffe auf die Privatsphäre und Techniken zum Selbstdatenschutz - Dominik Herrmann (German)](https://svs.informatik.uni-hamburg.de/publications/2015/2015-12-01-Herrmann-GI-Disspreis-Beobachtungsmoeglichkeiten-im-DNS.pdf)
 * [DNSSEC HOWTO - Olaf Kolkman](https://www.dns-school.org/Documentation/dnssec_howto.pdf)
 * [Erkennung von Angriffsmustern in Passiv-DNS-Daten - Bachelorarbeit Nick Diedrich](http://edoc.sub.uni-hamburg.de/haw/volltexte/2017/4012/pdf/Bachelorarbeit_Nick_Diedrich.pdf)
+* [Counterfighting Counterfeit: detecting andtaking down fraudulent webshops at a ccTLD](https://www.sidnlabs.nl/downloads/6tIo0U3dqydRSP781LYgDP/3c1bea3394648c44e5ea155f7e3f0887/Counterfighting_Counterfeit_detecting_and_taking_down_fraudulent_webshops_at_a_ccTLD.pdf)
