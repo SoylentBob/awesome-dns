@@ -7,6 +7,7 @@
 * [DNS Wars](https://www.potaroo.net/ispcol/2019-11/dnswars.html)
 * [DKIM demystified](https://www.20i.com/blog/dkim-demystified/)
 * [DNS for Rocket Scientists](http://www.zytrax.com/books/dns/ch1/)
+* [An interview with Paul Mockapetris, the creator of the DNS](https://www.welcometothejungle.com/en/collections/behind-the-code/coder-stories/articles/btc-interview-paul-mockapetris)
 
 # Authoritative Nameservers
 
