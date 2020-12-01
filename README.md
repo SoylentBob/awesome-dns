@@ -139,6 +139,10 @@
 * [Paul Vixie talks about DNS over HTTPS](https://www.youtube.com/watch?v=ZxTdEEuyxHU)
 * [36C3 - Email authentication for penetration testers](https://www.youtube.com/watch?v=elxL8BU4vH8)
 
+# Podcasts
+
+* [Network Collective - History of networking - Paul Mockapetris - Origins of DNS](https://networkcollective.com/2018/01/hon-dns-origins/)
+
 # Books
 
 * [DNS Security: In-depth Vulnerability Analysis and Mitigation Solutions](https://www.goodreads.com/book/show/19251179-dns-security)
