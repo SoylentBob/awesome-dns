@@ -159,6 +159,12 @@
 * https://www.isc.org/community/rfcs/dns/
 * [DNS Terminology](https://tools.ietf.org/html/rfc8499)
 
+# Tools
+
+* [DNSViz](https://dnsviz.net/)
+* [Dig web interface - online dns lookup tool](https://www.digwebinterface.com/)
+* [Nameserver Predelegation Check Webinterface](https://www.denic.de/service/tools/nast/)
+
 # Papers/Publications
 
 * [Federated Domain Name Service Using DNS Metazones - Paul Vixie](https://jpmens.net/drop/metazones.pdf)
