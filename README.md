@@ -79,6 +79,7 @@
 * [New Adventures in DNSSEC and DANE](https://www.netmeister.org/blog/dnssec-dane.html)
 * [Bitsquatting: DNS Hijacking without exploitation](http://dinaburg.org/bitsquatting.html)
 * [Hijacking of abandoned subdomains part 2](https://labs.detectify.com/2014/12/08/hijacking-of-abandoned-subdomains-part-2/)
+* [A security researcher commandeered a country’s expired top-level domain to save it from hackers](https://techcrunch.com/2021/01/15/congo-comandeered/)
 
 ## DNSSEC
 
