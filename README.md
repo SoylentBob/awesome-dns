@@ -140,6 +140,7 @@
 * [Detecting and Preventing Malicious Domain Registrations in the .eu TLD - Lieven Desmet](https://www.youtube.com/watch?v=TpzhM3VFyJc)
 * [Paul Vixie talks about DNS over HTTPS](https://www.youtube.com/watch?v=ZxTdEEuyxHU)
 * [36C3 - Email authentication for penetration testers](https://www.youtube.com/watch?v=elxL8BU4vH8)
+* [#rC3 - Encrypted DNS, Episode II](https://www.youtube.com/watch?v=ILG4WLFmN7A)
 
 # Podcasts
 
