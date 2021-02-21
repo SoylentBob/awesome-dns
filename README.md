@@ -128,6 +128,10 @@
 * [DNS - CircleID](http://www.circleid.com/topics/dns)
 * [DNS - The Cloudflare Blog](https://blog.cloudflare.com/tag/dns/)
 
+## Articles
+
+* [Please do not put IP addresses into DNS MX records](https://blog.hboeck.de/archives/904-Please-do-not-put-IP-addresses-into-DNS-MX-records.html)
+
 # Conferences
 
 * [DNS-OARC](https://indico.dns-oarc.net/)
