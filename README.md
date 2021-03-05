@@ -81,6 +81,10 @@
 * [Bitsquatting: DNS Hijacking without exploitation](http://dinaburg.org/bitsquatting.html)
 * [Hijacking of abandoned subdomains part 2](https://labs.detectify.com/2014/12/08/hijacking-of-abandoned-subdomains-part-2/)
 * [A security researcher commandeered a country’s expired top-level domain to save it from hackers](https://techcrunch.com/2021/01/15/congo-comandeered/)
+* [Bitsquatting microsoft.com](https://remyhax.xyz/posts/bitsquatting-windows/)
+* [The Duct Tape Holding the Internet Together](https://medium.com/thisiscala/the-duct-tape-holding-the-internet-together-12118be60ff1)
+* [Sinkholed](https://susam.in/blog/sinkholed/)
+* [The Hijacking of perl.com](https://www.perl.com/article/the-hijacking-of-perl-com/)
 
 ## DNSSEC
 
