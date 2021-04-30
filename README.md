@@ -127,6 +127,7 @@
 
 * [“The DNS Camel”, or, the rise in DNS complexity - Bert Hubert](https://blog.powerdns.com/2018/03/22/the-dns-camel-or-the-rise-in-dns-complexit/)
 * [How we made our DNS stack 3x faster](https://blog.cloudflare.com/how-we-made-our-dns-stack-3x-faster/)
+* [Why We Built Our Own DNS Infrastructure - Replit](https://blog.replit.com/dns)
 
 # Blogs
 
