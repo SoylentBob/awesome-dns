@@ -141,6 +141,10 @@
 
 * [Please do not put IP addresses into DNS MX records](https://blog.hboeck.de/archives/904-Please-do-not-put-IP-addresses-into-DNS-MX-records.html)
 
+## Social Media
+
+* [Rule 53: if you can think of it, someone's done it in the DNS - Peter Lowe](https://twitter.com/pgl/status/1405614755000295427)
+
 # Conferences
 
 * [DNS-OARC](https://indico.dns-oarc.net/)
