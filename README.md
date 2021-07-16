@@ -9,6 +9,7 @@
 * [DNS for Rocket Scientists](http://www.zytrax.com/books/dns/ch1/)
 * [An interview with Paul Mockapetris, the creator of the DNS](https://www.welcometothejungle.com/en/collections/behind-the-code/coder-stories/articles/btc-interview-paul-mockapetris)
 * [Why updating DNS takes time](https://wizardzines.com/comics/updating-dns/)
+* [(All) DNS Resource Records - netmeister.org](https://www.netmeister.org/blog/dns-rrs.html)
 
 # Authoritative Nameservers
 
