@@ -100,6 +100,7 @@
 * [DNSSEC - The Good The Bad and The Very Bad](http://conference.hackinthebox.org/hitbsecconf2011ams/materials/D2T3%20-%20Bert%20Hubert%20-%20DNSSEC%20-%20The%20Good%20The%20Bad%20and%20The%20Very%20Bad.pdf)
 * [14 DNS Nerds Don't Control The Internet - Quarrelsome](https://sockpuppet.org/blog/2016/10/27/14-dns-nerds-dont-control-the-internet/)
 * [Parents, children, CDS/CDNSKEY records, and dnssec-cds](https://jpmens.net/2017/09/21/parents-children-cds-cdnskey-records-and-dnssec-cds/)
+* [DNSSEC provisioning automation with CDS/CDNSKEY in the real world - Jan-Piet Mens](https://jpmens.net/2021/10/05/dnssec-cds-cdnskey-in-the-real-world/)
 
 ## Reports
 
