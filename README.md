@@ -144,6 +144,7 @@
 * [Please do not put IP addresses into DNS MX records](https://blog.hboeck.de/archives/904-Please-do-not-put-IP-addresses-into-DNS-MX-records.html)
 * [The Perils of an .xyz Domain](https://www.spotvirtual.com/blog/the-perils-of-an-xyz-domain/)
 * [Tackling Email Spoofing and Phishing](https://blog.cloudflare.com/tackling-email-spoofing/)
+* [Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
 
 ## Social Media
 
