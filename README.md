@@ -87,6 +87,7 @@
 * [Sinkholed](https://susam.in/blog/sinkholed/)
 * [The Hijacking of perl.com](https://www.perl.com/article/the-hijacking-of-perl-com/)
 * [How MarkMonitor left > 60,000 domains for the taking](https://ian.sh/markmonitor)
+* [Deep inside a DNS amplification DDOS Attack](https://blog.cloudflare.com/deep-inside-a-dns-amplification-ddos-attack/)
 
 ## DNSSEC
 
