@@ -147,6 +147,7 @@
 * [The Perils of an .xyz Domain](https://www.spotvirtual.com/blog/the-perils-of-an-xyz-domain/)
 * [Tackling Email Spoofing and Phishing](https://blog.cloudflare.com/tackling-email-spoofing/)
 * [Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
+* [What's in a hostname?](https://www.netmeister.org/blog/hostnames.html)
 
 ## Social Media
 
