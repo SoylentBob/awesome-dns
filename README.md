@@ -88,6 +88,7 @@
 * [The Hijacking of perl.com](https://www.perl.com/article/the-hijacking-of-perl-com/)
 * [How MarkMonitor left > 60,000 domains for the taking](https://ian.sh/markmonitor)
 * [Deep inside a DNS amplification DDOS Attack](https://blog.cloudflare.com/deep-inside-a-dns-amplification-ddos-attack/)
+* [DNS Cache Poisoning Attack: Resurrections with Side Channels](https://www.cs.ucr.edu/~zhiyunq/pub/ccs21_dns_poisoning.pdf)
 
 ## DNSSEC
 
