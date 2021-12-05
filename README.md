@@ -39,6 +39,7 @@
 * [cullum/dank-selfhosted](https://github.com/cullum/dank-selfhosted/tree/master/roles/nsd)
 * [atomiadns](https://github.com/atomia/atomiadns)
 * [dnsjava](https://github.com/dnsjava/dnsjava)
+* [dog](https://github.com/ogham/dog)
 
 # Monitoring
 
