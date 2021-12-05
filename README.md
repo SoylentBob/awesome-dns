@@ -10,6 +10,7 @@
 * [An interview with Paul Mockapetris, the creator of the DNS](https://www.welcometothejungle.com/en/collections/behind-the-code/coder-stories/articles/btc-interview-paul-mockapetris)
 * [Why updating DNS takes time](https://wizardzines.com/comics/updating-dns/)
 * [(All) DNS Resource Records - netmeister.org](https://www.netmeister.org/blog/dns-rrs.html)
+* [How to use dig](https://jvns.ca/blog/2021/12/04/how-to-use-dig/)
 
 # Authoritative Nameservers
 
