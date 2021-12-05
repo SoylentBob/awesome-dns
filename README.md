@@ -150,6 +150,7 @@
 * [Tackling Email Spoofing and Phishing](https://blog.cloudflare.com/tackling-email-spoofing/)
 * [Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
 * [What's in a hostname?](https://www.netmeister.org/blog/hostnames.html)
+* [DNS Openness - RIPE Labs](https://labs.ripe.net/author/gih/dns-openness/)
 
 ## Social Media
 
