@@ -154,6 +154,7 @@
 * [Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
 * [What's in a hostname?](https://www.netmeister.org/blog/hostnames.html)
 * [DNS Openness - RIPE Labs](https://labs.ripe.net/author/gih/dns-openness/)
+* [Fun with the DNS SOA expire field](https://jpmens.net/2022/01/14/fun-with-the-dns-soa-expire-field/)
 
 ## Social Media
 
