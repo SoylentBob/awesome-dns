@@ -12,6 +12,7 @@
 * [(All) DNS Resource Records - netmeister.org](https://www.netmeister.org/blog/dns-rrs.html)
 * [How to use dig](https://jvns.ca/blog/2021/12/04/how-to-use-dig/)
 * [Mess with DNS](https://messwithdns.net/)
+* [Life of a DNS query](https://wizardzines.com/comics/life-of-a-dns-query/)
 
 # Authoritative Nameservers
 
