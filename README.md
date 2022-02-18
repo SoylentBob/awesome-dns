@@ -13,6 +13,7 @@
 * [How to use dig](https://jvns.ca/blog/2021/12/04/how-to-use-dig/)
 * [Mess with DNS](https://messwithdns.net/)
 * [Life of a DNS query](https://wizardzines.com/comics/life-of-a-dns-query/)
+* [The multiple meanongs of "nameserver" and "DNS resolver"](https://jvns.ca/blog/2022/02/14/some-dns-terminology/)
 
 # Authoritative Nameservers
 
