@@ -123,6 +123,7 @@
  * [DNSpionage Campaign Targets Middle East  - Talos](https://blog.talosintelligence.com/2018/11/dnspionage-campaign-targets-middle-east.html)
  * [A Deep Dive on the Recent Widespread DNS Hijacking Attacks - Krebs on Security](https://krebsonsecurity.com/2019/02/a-deep-dive-on-the-recent-widespread-dns-hijacking-attacks/)
  * [Buying a single character domain – and 3 character FQDN – for £15](https://shkspr.mobi/blog/2020/08/buying-a-single-character-domain-and-3-character-fqdn-for-15/)
+* [DNSSEC issues take Fiji domains offline](https://blog.cloudflare.com/dnssec-issues-fiji/)
 
 # Infrastructure
 
