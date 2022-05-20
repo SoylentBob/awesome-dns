@@ -182,6 +182,7 @@
 * [36C3 - Email authentication for penetration testers](https://www.youtube.com/watch?v=elxL8BU4vH8)
 * [#rC3 - Encrypted DNS, Episode II](https://www.youtube.com/watch?v=ILG4WLFmN7A)
 * [You have No Idea Who Sent that Email: 18 Attacks on Email Sender Authentication](https://www.youtube.com/watch?v=ar_lVqkWcHk)
+* [gpn20 - Breaking things with emoji](https://www.youtube.com/watch?v=_DvzVf4f-fI)
 
 # Podcasts
 
