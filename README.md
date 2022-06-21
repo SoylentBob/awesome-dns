@@ -209,6 +209,7 @@
 * [DNSViz](https://dnsviz.net/)
 * [Dig web interface - online dns lookup tool](https://www.digwebinterface.com/)
 * [Nameserver Predelegation Check Webinterface](https://www.denic.de/service/tools/nast/)
+* [DNS Toys](https://www.dns.toys/)
 
 # Papers/Publications
 
