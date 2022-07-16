@@ -96,6 +96,7 @@
 * [Deep inside a DNS amplification DDOS Attack](https://blog.cloudflare.com/deep-inside-a-dns-amplification-ddos-attack/)
 * [DNS Cache Poisoning Attack: Resurrections with Side Channels](https://www.cs.ucr.edu/~zhiyunq/pub/ccs21_dns_poisoning.pdf)
 * [Does Your Domain Have a Registry Lock?](https://krebsonsecurity.com/2020/01/does-your-domain-have-a-registry-lock/)
+* [A Deep Dive on the Recent Widespread DNS Hijacking Attacks](https://krebsonsecurity.com/2019/02/a-deep-dive-on-the-recent-widespread-dns-hijacking-attacks/)
 
 ## DNSSEC
 
