@@ -44,6 +44,7 @@
 * [atomiadns](https://github.com/atomia/atomiadns)
 * [dnsjava](https://github.com/dnsjava/dnsjava)
 * [dog](https://github.com/ogham/dog)
+* [deSEC](https://desec.io/)
 
 # Monitoring
 
