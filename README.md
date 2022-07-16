@@ -51,6 +51,7 @@
 * [DNS query/response logging with dnstap - Jan-Piet Mens](https://jpmens.net/2017/09/11/dns-query-response-logging-with-dnstap/)
 * [How Cloudflare analyzes 1M DNS queries per second](https://blog.cloudflare.com/how-cloudflare-analyzes-1m-dns-queries-per-second/)
 * [On the surprising connection between the magic HyperLoglog and DNSSEC NSEC3](https://ds9a.nl/hypernsec3/)
+* [The Domain Abuse Activity Reporting System](https://2019.apricot.net/assets/files/APKS756/the-domain-abuse-activity-reporting-system.pdf)
 
 ## Passive DNS
 
