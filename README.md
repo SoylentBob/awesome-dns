@@ -101,6 +101,7 @@
 * [I figured out how DMARC works, and it almost broke me](https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc)
 * [Email Authenticity 101: DKIM, DMARC, and SPF](https://www.alexblackie.com/articles/email-authenticity-dkim-spf-dmarc/)
 * [What can you learn from an IP address?](https://blog.apnic.net/2019/08/23/what-can-you-learn-from-an-ip-address/)
+* [The life cycle of phishing pages](https://securelist.com/phishing-page-life-cycle/105171/)
 
 ## DNSSEC
 
