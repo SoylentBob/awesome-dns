@@ -62,6 +62,7 @@
 * [Alternatives to Passive DNS Replication - enyo.de](http://www.enyo.de/fw/software/dnslogger/alternatives.html)
 * [Passive DNS Replication WHOIS Server - enyo.de](http://www.enyo.de/fw/software/dnslogger/whois.html)
 * [Exposure: a Passive DNS Analysis Service to Detect and Report malicious Domains](https://sites.cs.ucsb.edu/~chris/research/doc/tissec14_exposure.pdf)
+* [Building a local passive DNS capability for malware incident response](https://www.virusbulletin.com/uploads/pdf/magazine/2017/VB2016-WangBrant.pdf)
 
 # Benchmarking
 
