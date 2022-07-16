@@ -164,6 +164,7 @@
 * [Fun with the DNS SOA expire field](https://jpmens.net/2022/01/14/fun-with-the-dns-soa-expire-field/)
 * [What happens to TLDs when their country stops existing?](https://astrid.tech/2022/04/05/1/dead-tlds/)
 * [DNS Esoterica - Why you can't dig Switzerland](https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/)
+* [Breaking DKIM - on Purpose and by Chance](https://noxxi.de/research/breaking-dkim-on-purpose-and-by-chance.html)
 
 ## Social Media
 
