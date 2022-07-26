@@ -45,6 +45,7 @@
 * [dnsjava](https://github.com/dnsjava/dnsjava)
 * [dog](https://github.com/ogham/dog)
 * [deSEC](https://desec.io/)
+* [The GNU Name System](https://www.gnunet.org/en/gns.html)
 
 # Monitoring
 
