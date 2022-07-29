@@ -238,3 +238,4 @@
 * [Counterfighting Counterfeit: detecting andtaking down fraudulent webshops at a ccTLD](https://www.sidnlabs.nl/downloads/6tIo0U3dqydRSP781LYgDP/3c1bea3394648c44e5ea155f7e3f0887/Counterfighting_Counterfeit_detecting_and_taking_down_fraudulent_webshops_at_a_ccTLD.pdf)
 * [Development of the Domain Name System - Paul V. Mockapetris, Kevin J. Dunlap](https://cseweb.ucsd.edu/classes/wi01/cse222/papers/mockapetris-dns-sigcomm88.pdf)
 * [Now You See It, Now You Don't: A Large-scale Analysis of Early Domain Deletions](https://www.usenix.org/system/files/raid2019-barron.pdf)
+* [Measuring DNS over TCP in the Era of Increasing DNS Response Sizes: A View from the Edge](https://arxiv.org/abs/2205.00746)
