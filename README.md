@@ -176,6 +176,7 @@
 * [DNS Esoterica - Why you can't dig Switzerland](https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/)
 * [Breaking DKIM - on Purpose and by Chance](https://noxxi.de/research/breaking-dkim-on-purpose-and-by-chance.html)
 * [TLDs -- Putting the '.fun' in the top of the DNS](https://www.netmeister.org/blog/tlds.html)
+* [DNS Response Size](https://www.netmeister.org/blog/dns-size.html)
 
 ## Social Media
 
