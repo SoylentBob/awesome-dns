@@ -106,6 +106,7 @@
 * [What can you learn from an IP address?](https://blog.apnic.net/2019/08/23/what-can-you-learn-from-an-ip-address/)
 * [The life cycle of phishing pages](https://securelist.com/phishing-page-life-cycle/105171/)
 * [DNS settings to avoid spoofing and phishing for unused domain](https://www.cyberciti.biz/security/dns-settings-to-avoid-email-spoofing-and-phishing-for-unused-domain/)
+* [The Sender Policy Framework (SPF) - netmeister.org](https://www.netmeister.org/blog/spf.html)
 
 ## DNSSEC
 
