@@ -180,6 +180,7 @@
 * [Breaking DKIM - on Purpose and by Chance](https://noxxi.de/research/breaking-dkim-on-purpose-and-by-chance.html)
 * [TLDs -- Putting the '.fun' in the top of the DNS](https://www.netmeister.org/blog/tlds.html)
 * [DNS Response Size](https://www.netmeister.org/blog/dns-size.html)
+* [Stop using ridiculously low DNS TTLs](https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/)
 
 ## Social Media
 
