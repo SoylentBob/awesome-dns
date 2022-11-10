@@ -123,6 +123,7 @@
 * [DNSSEC provisioning automation with CDS/CDNSKEY in the real world - Jan-Piet Mens](https://jpmens.net/2021/10/05/dnssec-cds-cdnskey-in-the-real-world/)
 * [For DNSSEC - easyDNS](https://easydns.com/blog/2015/08/06/for-dnssec/)
 * [Major DNSSEC Outages and Validation Failures](https://ianix.com/pub/dnssec-outages.html)
+* [Red means Kaputt: when DNSSEC turns into a treasure hunt](https://jpmens.net/2022/11/10/red-means-kaputt-when-dnssec-turns-into-a-treasure-hunt/)
 
 ## Reports
 
