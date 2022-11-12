@@ -152,6 +152,7 @@
 ## TLDs
 
 * [TLD Graveyard](https://dzdb.caida.org/tlds/graveyard)
+* [The Death of a TLD](https://blog.benjojo.co.uk/post/the-death-of-a-tld)
 
 # Development
 
