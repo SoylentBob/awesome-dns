@@ -184,6 +184,7 @@
 * [TLDs -- Putting the '.fun' in the top of the DNS](https://www.netmeister.org/blog/tlds.html)
 * [DNS Response Size](https://www.netmeister.org/blog/dns-size.html)
 * [Stop using ridiculously low DNS TTLs](https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/)
+* [International domain names: where does https://meßagefactory.ca lead you?](https://lemire.me/blog/2023/01/23/international-domain-names-where-does-https-mesagefactory-ca-lead-you/)
 
 ## Social Media
 
