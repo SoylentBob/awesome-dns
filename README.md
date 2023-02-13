@@ -143,6 +143,7 @@
 * [A lock with many keys: Spoofing DNSSEC-signed domains in 8.8.8.8](https://www.sidnlabs.nl/en/news-and-blogs/a-lock-with-many-keys-spoofing-dnssec-signed-domains-in-8-8-8-8)
 * [Detecting DNS Root Manipulation](https://labs.ripe.net/author/qasim-lone/detecting-dns-root-manipulation/)
 * [Measuring Encrypted-DNS Censorship Using OONI Probe](https://labs.ripe.net/author/bassosimone/measuring-encrypted-dns-censorship-using-ooni-probe/)
+* [NameCheap's email hacked to send Metamask, DHL phishing emails](https://www.bleepingcomputer.com/news/security/namecheaps-email-hacked-to-send-metamask-dhl-phishing-emails/)
 
 # Infrastructure
 
