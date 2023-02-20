@@ -75,6 +75,7 @@
 * [How the AXFR protocol works](https://cr.yp.to/djbdns/axfr-notes.html)
 * [Managing DNS Zones Using Git - Ondřej Caletka](https://labs.ripe.net/Members/ondrej_caletka/managing-dns-zones-using-git)
 * [Posh Security: Managing DNS with DNSControl, CloudFlare, DNSimple, Github, VSTS, Key Vault, and Docker!](https://poshsecurity.com/blog/managing-dns-with-dnscontrol-cloudflare-dnsimple-github-vsts-key-vault-and-docker)
+* [How Knot-DNS simplifies adding member zones to a catalog zone](https://jpmens.net/2023/02/18/how-knot-dns-simplifies-adding-member-zones-to-a-catalog-zone/)
 
 # Security
 
