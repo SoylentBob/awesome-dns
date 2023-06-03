@@ -211,6 +211,7 @@
 * [You have No Idea Who Sent that Email: 18 Attacks on Email Sender Authentication](https://www.youtube.com/watch?v=ar_lVqkWcHk)
 * [gpn20 - Breaking things with emoji](https://www.youtube.com/watch?v=_DvzVf4f-fI)
 * [Bizarre and Unusual Uses of DNS](https://fosdem.org/2023/schedule/event/dns_bizarre_and_unusual_uses_of_dns/)
+* [Learning DNS by Julia Evans](https://www.youtube.com/watch?v=tsxjNsFu_2g)
 
 # Podcasts
 
