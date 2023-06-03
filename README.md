@@ -14,6 +14,7 @@
 * [Mess with DNS](https://messwithdns.net/)
 * [Life of a DNS query](https://wizardzines.com/comics/life-of-a-dns-query/)
 * [The multiple meanings of "nameserver" and "DNS resolver"](https://jvns.ca/blog/2022/02/14/some-dns-terminology/)
+* [NsLookup.io - Learning Center](https://www.nslookup.io/learning/)
 
 # Authoritative Nameservers
 
