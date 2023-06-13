@@ -110,6 +110,7 @@
 * [DNS settings to avoid spoofing and phishing for unused domain](https://www.cyberciti.biz/security/dns-settings-to-avoid-email-spoofing-and-phishing-for-unused-domain/)
 * [The Sender Policy Framework (SPF) - netmeister.org](https://www.netmeister.org/blog/spf.html)
 * [IDN is crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/)
+* [can I speak to your manager? hacking root EPP servers to take control of zones](https://hackcompute.com/hacking-epp-servers/)
 
 ## DNSSEC
 
