@@ -128,6 +128,7 @@
 * [For DNSSEC - easyDNS](https://easydns.com/blog/2015/08/06/for-dnssec/)
 * [Major DNSSEC Outages and Validation Failures](https://ianix.com/pub/dnssec-outages.html)
 * [Red means Kaputt: when DNSSEC turns into a treasure hunt](https://jpmens.net/2022/11/10/red-means-kaputt-when-dnssec-turns-into-a-treasure-hunt/)
+* [DNSSEC and Zone Transfers: What You Need to Know](https://labs.ripe.net/author/liman/dnssec-and-zone-transfers-what-you-need-to-know/)
 
 ## Reports
 
