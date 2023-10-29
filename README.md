@@ -111,6 +111,7 @@
 * [The Sender Policy Framework (SPF) - netmeister.org](https://www.netmeister.org/blog/spf.html)
 * [IDN is crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/)
 * [can I speak to your manager? hacking root EPP servers to take control of zones](https://hackcompute.com/hacking-epp-servers/)
+* [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
 
 ## DNSSEC
 
