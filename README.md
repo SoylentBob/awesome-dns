@@ -194,6 +194,7 @@
 * [Who reads your email?](https://www.netmeister.org/blog/mx-diversity.html)
 * [Finding the services companies use via their TXT records](https://www.abenezerbelachew.com/blog/services-companies-use-txt-records)
 * [Use of HTTPS Resource Records](https://www.netmeister.org/blog/https-rrs.html)
+* [Infection Method: Domain Takeover](https://dzone.com/articles/infection-method-domain-takeover)
 
 ## Social Media
 
