@@ -193,6 +193,7 @@
 * [International domain names: where does https://meßagefactory.ca lead you?](https://lemire.me/blog/2023/01/23/international-domain-names-where-does-https-mesagefactory-ca-lead-you/)
 * [Who reads your email?](https://www.netmeister.org/blog/mx-diversity.html)
 * [Finding the services companies use via their TXT records](https://www.abenezerbelachew.com/blog/services-companies-use-txt-records)
+* [Use of HTTPS Resource Records](https://www.netmeister.org/blog/https-rrs.html)
 
 ## Social Media
 
