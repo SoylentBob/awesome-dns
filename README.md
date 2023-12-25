@@ -195,6 +195,7 @@
 * [Finding the services companies use via their TXT records](https://www.abenezerbelachew.com/blog/services-companies-use-txt-records)
 * [Use of HTTPS Resource Records](https://www.netmeister.org/blog/https-rrs.html)
 * [Infection Method: Domain Takeover](https://dzone.com/articles/infection-method-domain-takeover)
+* [That time Verisign typo-squatted all of .com and .net](http://rachelbythebay.com/w/2023/11/27/sitefinder/)
 
 ## Social Media
 
